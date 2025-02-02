@@ -20,11 +20,11 @@ function mirarinstra(articulo){
     if (articulo === 'colibris') {
         enlacePSE= "https://www.instagram.com/gloriacruz_pt?igsh=Nnh6a3dmZXQ2MmRn";
     } else if (articulo === 'animales') {
-        mensaje = "¡Hola! Estoy interesado en la chaqueta pintada a mano con animales.";
+        mensaje = "https://www.instagram.com/gloriacruz_pt?igsh=Nnh6a3dmZXQ2MmRn";
     } else if (articulo === 'mandalas') {
-        mensaje = "¡Hola! Estoy interesado en la chaqueta pintada a mano con mandalas.";
+        mensaje = "https://www.instagram.com/gloriacruz_pt?igsh=Nnh6a3dmZXQ2MmRn";
     } else if (mensaje === 'naturaleza') {
-        mensaje = "¡Hola! Estoy interesado en la chaqueta pintada a mano con naturaleza.";
+        mensaje = "https://www.instagram.com/gloriacruz_pt?igsh=Nnh6a3dmZXQ2MmRn";
     }
     
 
